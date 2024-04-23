@@ -38,4 +38,5 @@ Open the coffee_sales_analysis.pbix file in Power BI Desktop.
 Interact with the visualizations and dashboards to explore the data and gain insights.
 
 ## Recommendation
-More capital should be invested in the kitchen with the highest revenue which is Hell's kitchen
+More capital should be invested in the kitchen with the highest revenue which is Hell's kitchen.
+The product type with the highest number of sales should be produced more.
